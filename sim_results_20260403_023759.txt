@@ -1,0 +1,33 @@
+=== Scalability Full Qiskit Simulation (Fair Baseline: Z-basis 50%) ===
+Log file created: sim_results_20260403_023759.txt
+
+================================================================================
+ SIMULATING: NUM_USERS = 3
+================================================================================
+  * Generated Zenith Angles (degrees): [14.95, 5.8, 0.41]
+
+  Evaluating 2-GHZ topology...
+  Evaluating 3-GHZ topology...
+
+--------------------------------------------------------------------------------
+ RESULTS for 3 Users
+--------------------------------------------------------------------------------
+【2-GHZ】 Total Groups: 2
+  - Uniform Rate (従来)  : 14.2855 Mbps
+  - Optimal Rate (提案)  : 14.4173 Mbps
+  - Optimal Time Ratios: [49.5%, 50.5%]
+  => Performance Boost : +0.9 %
+ 
+【3-GHZ】 Total Groups: 1
+  - Uniform Rate (従来)  : 2.1314 Mbps
+  - Optimal Rate (提案)  : 2.1314 Mbps
+  - Optimal Time Ratios: [100.0%]
+  => Performance Boost : +0.0 %
+ 
+
+================================================================================
+ SIMULATING: NUM_USERS = 5
+================================================================================
+  * Generated Zenith Angles (degrees): [56.03, 34.36, 22.13, 51.23, 26.04]
+
+  Evaluating 2-GHZ topology...

@@ -1,0 +1,9 @@
+=== Scalability Full Qiskit Simulation (Fair Baseline: Z-basis 50%) ===
+Log file created: sim_results_20260403_024728.txt
+
+================================================================================
+ SIMULATING: NUM_USERS = 3
+================================================================================
+  * Generated Zenith Angles (degrees): [20.41, 5.85, 27.3]
+
+  Evaluating 2-GHZ topology...

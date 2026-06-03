@@ -1,0 +1,310 @@
+=== Scalability Full Qiskit Simulation (Fair Baseline: Z-basis 50%) ===
+Log file created: sim_results_20260402_180336.txt
+
+================================================================================
+ SIMULATING: NUM_USERS = 3
+================================================================================
+  * Generated Zenith Angles (degrees): [16.22, 42.21, 26.93]
+
+  Evaluating 2-GHZ topology...
+  Evaluating 3-GHZ topology...
+
+--------------------------------------------------------------------------------
+ RESULTS for 3 Users
+--------------------------------------------------------------------------------
+【2-GHZ】 Total Groups: 2
+  - Uniform Rate (従来)  : 10.8032 Mbps
+  - Optimal Rate (提案)  : 11.7821 Mbps
+  - Optimal Time Ratios: [45.5%, 54.5%]
+  => Performance Boost : +9.1 %
+ 
+【3-GHZ】 Total Groups: 1
+  - Uniform Rate (従来)  : 1.4817 Mbps
+  - Optimal Rate (提案)  : 1.4817 Mbps
+  - Optimal Time Ratios: [100.0%]
+  => Performance Boost : +0.0 %
+ 
+
+================================================================================
+ SIMULATING: NUM_USERS = 5
+================================================================================
+  * Generated Zenith Angles (degrees): [32.83, 20.42, 49.5, 13.66, 25.86]
+
+  Evaluating 2-GHZ topology...
+  Evaluating 3-GHZ topology...
+
+--------------------------------------------------------------------------------
+ RESULTS for 5 Users
+--------------------------------------------------------------------------------
+【2-GHZ】 Total Groups: 4
+  - Uniform Rate (従来)  : 4.6987 Mbps
+  - Optimal Rate (提案)  : 5.9658 Mbps
+  - Optimal Time Ratios: [21.8%, 31.7%, 22.5%, 23.9%]
+  => Performance Boost : +27.0 %
+ 
+【3-GHZ】 Total Groups: 2
+  - Uniform Rate (従来)  : 0.6706 Mbps
+  - Optimal Rate (提案)  : 0.7574 Mbps
+  - Optimal Time Ratios: [56.5%, 43.5%]
+  => Performance Boost : +12.9 %
+ 
+
+================================================================================
+ SIMULATING: NUM_USERS = 7
+================================================================================
+  * Generated Zenith Angles (degrees): [22.83, 22.35, 17.23, 9.53, 46.27, 52.1, 34.68]
+
+  Evaluating 2-GHZ topology...
+  Evaluating 3-GHZ topology...
+
+--------------------------------------------------------------------------------
+ RESULTS for 7 Users
+--------------------------------------------------------------------------------
+【2-GHZ】 Total Groups: 6
+  - Uniform Rate (従来)  : 2.9418 Mbps
+  - Optimal Rate (提案)  : 3.9209 Mbps
+  - Optimal Time Ratios: [14.1%, 22.2%, 14.4%, 19.0%, 14.5%, 15.8%]
+  => Performance Boost : +33.3 %
+ 
+【3-GHZ】 Total Groups: 3
+  - Uniform Rate (従来)  : 0.4236 Mbps
+  - Optimal Rate (提案)  : 0.4879 Mbps
+  - Optimal Time Ratios: [38.4%, 33.5%, 28.1%]
+  => Performance Boost : +15.2 %
+ 
+
+================================================================================
+ SIMULATING: NUM_USERS = 9
+================================================================================
+  * Generated Zenith Angles (degrees): [31.52, 30.22, 1.2, 35.71, 29.13, 19.12, 54.05, 15.14, 1.83]
+
+  Evaluating 2-GHZ topology...
+  Evaluating 3-GHZ topology...
+
+--------------------------------------------------------------------------------
+ RESULTS for 9 Users
+--------------------------------------------------------------------------------
+【2-GHZ】 Total Groups: 8
+  - Uniform Rate (従来)  : 2.0785 Mbps
+  - Optimal Rate (提案)  : 3.1070 Mbps
+  - Optimal Time Ratios: [10.7%, 18.7%, 10.9%, 12.7%, 11.1%, ... (Total 8 groups)]
+  => Performance Boost : +49.5 %
+ 
+【3-GHZ】 Total Groups: 4
+  - Uniform Rate (従来)  : 0.3089 Mbps
+  - Optimal Rate (提案)  : 0.4031 Mbps
+  - Optimal Time Ratios: [32.6%, 22.5%, 21.9%, 23.0%]
+  => Performance Boost : +30.5 %
+ 
+
+================================================================================
+ SIMULATING: NUM_USERS = 11
+================================================================================
+  * Generated Zenith Angles (degrees): [51.33, 19.01, 38.07, 45.77, 1.33, 10.06, 36.4, 45.87, 44.67, 39.6, 45.06]
+
+  Evaluating 2-GHZ topology...
+  Evaluating 3-GHZ topology...
+
+--------------------------------------------------------------------------------
+ RESULTS for 11 Users
+--------------------------------------------------------------------------------
+【2-GHZ】 Total Groups: 10
+  - Uniform Rate (従来)  : 1.8127 Mbps
+  - Optimal Rate (提案)  : 2.2680 Mbps
+  - Optimal Time Ratios: [7.9%, 12.5%, 8.1%, 10.9%, 9.3%, ... (Total 10 groups)]
+  => Performance Boost : +25.1 %
+ 
+【3-GHZ】 Total Groups: 5
+  - Uniform Rate (従来)  : 0.2575 Mbps
+  - Optimal Rate (提案)  : 0.2686 Mbps
+  - Optimal Time Ratios: [20.0%, 17.9%, 20.5%, 20.7%, 20.9%]
+  => Performance Boost : +4.3 %
+ 
+
+================================================================================
+ SIMULATING: NUM_USERS = 13
+================================================================================
+  * Generated Zenith Angles (degrees): [16.11, 19.87, 27.7, 5.88, 13.94, 14.72, 19.4, 25.77, 9.5, 14.01, 19.75, 51.52, 17.07]
+
+  Evaluating 2-GHZ topology...
+  Evaluating 3-GHZ topology...
+
+--------------------------------------------------------------------------------
+ RESULTS for 13 Users
+--------------------------------------------------------------------------------
+【2-GHZ】 Total Groups: 12
+  - Uniform Rate (従来)  : 1.5103 Mbps
+  - Optimal Rate (提案)  : 2.2263 Mbps
+  - Optimal Time Ratios: [7.7%, 12.3%, 7.8%, 8.4%, 7.8%, ... (Total 12 groups)]
+  => Performance Boost : +47.4 %
+ 
+【3-GHZ】 Total Groups: 6
+  - Uniform Rate (従来)  : 0.2228 Mbps
+  - Optimal Rate (提案)  : 0.3080 Mbps
+  - Optimal Time Ratios: [23.0%, 15.8%, 15.5%, 15.1%, 15.3%, 15.3%]
+  => Performance Boost : +38.2 %
+ 
+
+================================================================================
+ SIMULATING: NUM_USERS = 15
+================================================================================
+  * Generated Zenith Angles (degrees): [42.18, 56.79, 22.3, 16.54, 1.17, 12.08, 1.46, 0.13, 28.51, 11.43, 49.35, 21.88, 45.79, 27.12, 53.13]
+
+  Evaluating 2-GHZ topology...
+  Evaluating 3-GHZ topology...
+
+--------------------------------------------------------------------------------
+ RESULTS for 15 Users
+--------------------------------------------------------------------------------
+【2-GHZ】 Total Groups: 14
+  - Uniform Rate (従来)  : 1.0814 Mbps
+  - Optimal Rate (提案)  : 1.6957 Mbps
+  - Optimal Time Ratios: [5.8%, 11.2%, 5.8%, 9.8%, 5.9%, ... (Total 14 groups)]
+  => Performance Boost : +56.8 %
+ 
+【3-GHZ】 Total Groups: 7
+  - Uniform Rate (従来)  : 0.1626 Mbps
+  - Optimal Rate (提案)  : 0.2134 Mbps
+  - Optimal Time Ratios: [18.7%, 16.5%, 15.2%, 13.7%, 13.2%, ... (Total 7 groups)]
+  => Performance Boost : +31.2 %
+ 
+
+================================================================================
+ SIMULATING: NUM_USERS = 17
+================================================================================
+  * Generated Zenith Angles (degrees): [56.83, 12.7, 44.31, 42.35, 53.65, 49.1, 12.01, 30.56, 41.59, 56.05, 59.56, 15.48, 11.2, 22.7, 34.21, 21.02, 15.31]
+
+  Evaluating 2-GHZ topology...
+  Evaluating 3-GHZ topology...
+
+--------------------------------------------------------------------------------
+ RESULTS for 17 Users
+--------------------------------------------------------------------------------
+【2-GHZ】 Total Groups: 16
+  - Uniform Rate (従来)  : 0.8176 Mbps
+  - Optimal Rate (提案)  : 1.3250 Mbps
+  - Optimal Time Ratios: [4.7%, 10.1%, 4.7%, 9.1%, 4.7%, ... (Total 16 groups)]
+  => Performance Boost : +62.1 %
+ 
+【3-GHZ】 Total Groups: 8
+  - Uniform Rate (従来)  : 0.1213 Mbps
+  - Optimal Rate (提案)  : 0.1552 Mbps
+  - Optimal Time Ratios: [16.0%, 14.3%, 13.9%, 12.8%, 11.5%, ... (Total 8 groups)]
+  => Performance Boost : +27.9 %
+ 
+
+================================================================================
+ SIMULATING: NUM_USERS = 19
+================================================================================
+  * Generated Zenith Angles (degrees): [58.14, 3.61, 17.45, 54.68, 21.65, 31.19, 54.78, 30.16, 17.69, 40.46, 36.59, 46.25, 28.08, 46.89, 53.96, 44.28, 46.47, 11.99, 45.42]
+
+  Evaluating 2-GHZ topology...
+  Evaluating 3-GHZ topology...
+
+--------------------------------------------------------------------------------
+ RESULTS for 19 Users
+--------------------------------------------------------------------------------
+【2-GHZ】 Total Groups: 18
+  - Uniform Rate (従来)  : 0.7935 Mbps
+  - Optimal Rate (提案)  : 1.1977 Mbps
+  - Optimal Time Ratios: [4.2%, 8.4%, 4.3%, 7.4%, 4.3%, ... (Total 18 groups)]
+  => Performance Boost : +50.9 %
+ 
+【3-GHZ】 Total Groups: 9
+  - Uniform Rate (従来)  : 0.1177 Mbps
+  - Optimal Rate (提案)  : 0.1390 Mbps
+  - Optimal Time Ratios: [13.1%, 11.7%, 11.9%, 11.8%, 9.9%, ... (Total 9 groups)]
+  => Performance Boost : +18.1 %
+ 
+
+================================================================================
+ SIMULATING: NUM_USERS = 21
+================================================================================
+  * Generated Zenith Angles (degrees): [30.87, 51.98, 47.97, 2.38, 45.06, 52.7, 11.92, 3.8, 57.79, 33.25, 38.22, 0.89, 23.05, 41.9, 53.63, 34.24, 35.8, 10.59, 17.17, 44.84, 40.04]
+
+  Evaluating 2-GHZ topology...
+  Evaluating 3-GHZ topology...
+
+--------------------------------------------------------------------------------
+ RESULTS for 21 Users
+--------------------------------------------------------------------------------
+【2-GHZ】 Total Groups: 20
+  - Uniform Rate (従来)  : 0.7189 Mbps
+  - Optimal Rate (提案)  : 1.1278 Mbps
+  - Optimal Time Ratios: [3.9%, 7.8%, 3.9%, 6.7%, 3.9%, ... (Total 20 groups)]
+  => Performance Boost : +56.9 %
+ 
+【3-GHZ】 Total Groups: 10
+  - Uniform Rate (従来)  : 0.1078 Mbps
+  - Optimal Rate (提案)  : 0.1357 Mbps
+  - Optimal Time Ratios: [12.6%, 10.7%, 10.5%, 10.3%, 9.5%, ... (Total 10 groups)]
+  => Performance Boost : +25.9 %
+ 
+
+================================================================================
+ SIMULATING: NUM_USERS = 23
+================================================================================
+  * Generated Zenith Angles (degrees): [55.46, 40.19, 53.6, 36.67, 53.34, 29.33, 16.99, 42.68, 39.03, 9.48, 47.89, 19.35, 46.16, 19.75, 2.7, 1.83, 32.91, 33.07, 16.66, 21.42, 58.14, 30.83, 11.8]
+
+  Evaluating 2-GHZ topology...
+  Evaluating 3-GHZ topology...
+
+--------------------------------------------------------------------------------
+ RESULTS for 23 Users
+--------------------------------------------------------------------------------
+【2-GHZ】 Total Groups: 22
+  - Uniform Rate (従来)  : 0.6466 Mbps
+  - Optimal Rate (提案)  : 1.0418 Mbps
+  - Optimal Time Ratios: [3.6%, 7.3%, 3.6%, 6.6%, 3.6%, ... (Total 22 groups)]
+  => Performance Boost : +61.1 %
+ 
+【3-GHZ】 Total Groups: 11
+  - Uniform Rate (従来)  : 0.0973 Mbps
+  - Optimal Rate (提案)  : 0.1274 Mbps
+  - Optimal Time Ratios: [11.9%, 10.9%, 10.3%, 10.1%, 8.7%, ... (Total 11 groups)]
+  => Performance Boost : +31.0 %
+ 
+
+================================================================================
+ SIMULATING: NUM_USERS = 25
+================================================================================
+  * Generated Zenith Angles (degrees): [57.39, 14.45, 28.67, 20.84, 11.77, 39.78, 21.32, 54.94, 24.82, 39.85, 47.94, 3.26, 11.63, 15.05, 26.93, 57.82, 15.71, 38.55, 35.85, 40.21, 30.39, 46.1, 10.23, 0.97, 5.59]
+
+  Evaluating 2-GHZ topology...
+  Evaluating 3-GHZ topology...
+
+--------------------------------------------------------------------------------
+ RESULTS for 25 Users
+--------------------------------------------------------------------------------
+【2-GHZ】 Total Groups: 24
+  - Uniform Rate (従来)  : 0.5982 Mbps
+  - Optimal Rate (提案)  : 0.9887 Mbps
+  - Optimal Time Ratios: [3.4%, 6.9%, 3.4%, 6.7%, 3.4%, ... (Total 24 groups)]
+  => Performance Boost : +65.3 %
+ 
+【3-GHZ】 Total Groups: 12
+  - Uniform Rate (従来)  : 0.0898 Mbps
+  - Optimal Rate (提案)  : 0.1244 Mbps
+  - Optimal Time Ratios: [11.5%, 11.2%, 10.3%, 8.4%, 8.1%, ... (Total 12 groups)]
+  => Performance Boost : +38.5 %
+ 
+
+################################################################################
+ FINAL SCALABILITY SUMMARY (Mbps)
+################################################################################
+Users  | 2-GHZ Uniform   | 2-GHZ Optimal   | 3-GHZ Uniform   | 3-GHZ Optimal  
+---------------------------------------------------------------------------
+3      | 10.8032         | 11.7821         | 1.4817          | 1.4817         
+5      | 4.6987          | 5.9658          | 0.6706          | 0.7574         
+7      | 2.9418          | 3.9209          | 0.4236          | 0.4879         
+9      | 2.0785          | 3.1070          | 0.3089          | 0.4031         
+11     | 1.8127          | 2.2680          | 0.2575          | 0.2686         
+13     | 1.5103          | 2.2263          | 0.2228          | 0.3080         
+15     | 1.0814          | 1.6957          | 0.1626          | 0.2134         
+17     | 0.8176          | 1.3250          | 0.1213          | 0.1552         
+19     | 0.7935          | 1.1977          | 0.1177          | 0.1390         
+21     | 0.7189          | 1.1278          | 0.1078          | 0.1357         
+23     | 0.6466          | 1.0418          | 0.0973          | 0.1274         
+25     | 0.5982          | 0.9887          | 0.0898          | 0.1244         
+################################################################################
+
